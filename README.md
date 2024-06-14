@@ -1,14 +1,14 @@
 ## Hi there 👋
-This is Temitope Emmanuel Arotolu
+## I am Temitope Emmanuel Arotolu
 
 
 
-- 🔭 I’m currently working on Data and Business Analyst
-- 🌱 I’m currently learning at Dahel Techie
-- 👯 I’m looking to collaborate on Data Analysis and Business Intelligence Analysis
-- 🤔 I’m looking for help with reputable organisation
+- 🔭 I’m currently working as a Business Data Analyst
+- 🌱 I’m currently learning Data Analysis at Dahel Techie
+- 👯 I’m looking to collaborate on Data Analysis and Business Analysis
+- 🤔 I’m looking for career opportunity with any reputable organisation around the world
 - 💬 Ask me about Data and Business Analysis
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/temitope-arotolu-690a34b5)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tope-arotolu-234a32312?trk=contact-info)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: 
 
