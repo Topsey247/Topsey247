@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working as a Business Data Analyst
-- 🌱 I’m currently learning Data Analysis at Dahel Techie
+- 🌱 I learned Data Analysis at Dahel Techie
 - 👯 I’m looking to collaborate on Data Analysis and Business Analysis
 - 🤔 I’m looking for career opportunity with any reputable organisation around the world
 - 💬 Ask me about Data and Business Analysis
