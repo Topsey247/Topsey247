@@ -15,7 +15,7 @@
 ### **1️⃣ Requirement Gathering (Jira)**
 **Goal:** Improve Hubeatz seller dashboard by identifying pain points and gathering requirements from stakeholders.  
 **Tools:** JIRA, Confluence, Stakeholder Interviews, User Stories.  
-**Key Findings:** 
+**📈 Key Findings:** 
 - Sellers struggled with order tracking and real-time inventory updates.
 - Lack of customized reporting for sales trends.
 - Inefficient navigation affected user experience.  
@@ -28,14 +28,14 @@
  - Identified bottlenecks in the warehousing process, leading to delayed deliveries and increased operational costs.  
  📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)  
 
-### **3️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**
-**Goal:** Improve user engagement and streamline the feature development process using Agile methodologies.  
-**Tools:** Jira, Confluence, Miro, Microsoft Teams 
-**Methodology:**
-✅ Sprint Planning – Defined user stories, backlog grooming
-✅ Daily Stand-ups – Coordinated with developers & stakeholders
-✅ Sprint Reviews & Retrospectives – Collected feedback & optimized processes
-**Key Findings:**
+### **3️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**    
+**Goal:** Improve user engagement and streamline the feature development process using Agile methodologies.    
+**Tools:** Jira, Confluence, Miro, Microsoft Teams    
+**Methodology:**      
+✅ Sprint Planning – Defined user stories, backlog grooming     
+✅ Daily Stand-ups – Coordinated with developers & stakeholders     
+✅ Sprint Reviews & Retrospectives – Collected feedback & optimized processes    
+**📈 Key Findings:**     
 - 30% increase in feature release efficiency after implementing Agile workflows.
 - Improved collaboration led to faster decision-making and reduced rework.
 - Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.  
@@ -45,24 +45,24 @@
 **Goal:** Improve user engagement and streamline the feature development process using Agile methodologies.  
 **Tools:** Jira, Confluence, Miro, Microsoft Teams 
 **Methodology:**
-✅ Sprint Planning – Defined user stories, backlog grooming
-✅ Daily Stand-ups – Coordinated with developers & stakeholders
-✅ Sprint Reviews & Retrospectives – Collected feedback & optimized processes
-**Key Findings:**
-- 30% increase in feature release efficiency after implementing Agile workflows.
-- Improved collaboration led to faster decision-making and reduced rework.
-- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.  
- 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)
+✅ Sprint Planning – Defined user stories, backlog grooming     
+✅ Daily Stand-ups – Coordinated with developers & stakeholders    
+✅ Sprint Reviews & Retrospectives – Collected feedback & optimized processes    
+**📈 Key Findings:**   
+- 30% increase in feature release efficiency after implementing Agile workflows.    
+- Improved collaboration led to faster decision-making and reduced rework.     
+- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.     
+ 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)      
 
-### **5️⃣ Project: Modernizing Tritek’s Live Support Analytics Dashboard**
+### **5️⃣ Project: Modernizing Tritek’s Live Support Analytics Dashboard**   
 
 **Project Overview**
-**Goal:** Enhance Tritek’s live support analytics dashboard by incorporating modern features, improving user experience, and ensuring seamless interactions.
-**Scope:** Redesign dashboard UI/UX, integrate advanced analytics, and optimize reporting tools for admins.
-**Stakeholders:** Admins, Customer Support Team, Business Analysts, Developers.
-**Tools & Technologies:** Power BI, Tableau, SQL, Python, Figma, Jira, Confluence.
+**Goal:** Enhance Tritek’s live support analytics dashboard by incorporating modern features, improving user experience, and ensuring seamless interactions.    
+**Scope:** Redesign dashboard UI/UX, integrate advanced analytics, and optimize reporting tools for admins.   
+**Stakeholders:** Admins, Customer Support Team, Business Analysts, Developers.     
+**Tools & Technologies:** Power BI, Tableau, SQL, Python, Figma, Jira, Confluence.     
 
-## 📊 Project Approach
+## 📊 Project Approach   
 
 🔹 Business Analysis & Requirement Gathering   
 ✔ Conducted stakeholder interviews to gather pain points and feature requests.  
