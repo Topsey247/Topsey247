@@ -26,7 +26,7 @@
 **Tools:** Visio, Lucidchart, Bizagi, BPMN 2.0  
 **Key Findings:**
  - Identified bottlenecks in the warehousing process, leading to delayed deliveries and increased operational costs.
- 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md) | 📈 ![Churn Dashboard](./Dashboards/PowerBI-Dashboard-2.png)  
+ 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)  
 
 ### **3️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**
 **Goal:** Improve user engagement and streamline the feature development process using Agile methodologies.  
@@ -39,7 +39,7 @@
 - 30% increase in feature release efficiency after implementing Agile workflows.
 - Improved collaboration led to faster decision-making and reduced rework.
 - Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.
- 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md) | 📈 ![Churn Dashboard](./Dashboards/PowerBI-Dashboard-2.png)  
+ 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)
 
 ### **4️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**
 **Goal:** Improve user engagement and streamline the feature development process using Agile methodologies.  
@@ -52,7 +52,7 @@
 - 30% increase in feature release efficiency after implementing Agile workflows.
 - Improved collaboration led to faster decision-making and reduced rework.
 - Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.
- 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md) | 📈 ![Churn Dashboard](./Dashboards/PowerBI-Dashboard-2.png)  
+ 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)
 
 ### **5️⃣ Project: Modernizing Tritek’s Live Support Analytics Dashboard**
 
@@ -64,15 +64,15 @@
 
 ## 📊 Project Approach
 
-🔹 Business Analysis & Requirement Gathering
-✔ Conducted stakeholder interviews to gather pain points and feature requests.
-✔ Analyzed existing dashboard performance and user behavior data.
-✔ Defined business and technical requirements for the new dashboard.
+🔹 Business Analysis & Requirement Gathering 
+✔ Conducted stakeholder interviews to gather pain points and feature requests.  
+✔ Analyzed existing dashboard performance and user behavior data.  
+✔ Defined business and technical requirements for the new dashboard.  
 
-🔹 Market Research & Competitive Analysis
-✔ Researched latest live support analytics dashboard trends.
-✔ Compared features with industry leaders (e.g., Zendesk, Freshdesk, Intercom).
-✔ Identified key improvements and unique selling points for Tritek’s dashboard.
+🔹 Market Research & Competitive Analysis  
+✔ Researched latest live support analytics dashboard trends.  
+✔ Compared features with industry leaders.  
+✔ Identified key improvements and unique selling points for Tritek’s dashboard.  
 
 🔹 Dashboard Redesign & User Experience Optimization
 ✔ Proposed a new wireframe & UI design (using Figma & Adobe XD).
