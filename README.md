@@ -24,7 +24,7 @@
 ### **2️⃣ Process Mapping (Visio & BPMN)**
 **Goal:** Map the end-to-end processes of Hubeatz, including interactions between farmers, warehousing, and customers to improve efficiency.  
 **Tools:** Visio, Lucidchart, Bizagi, BPMN 2.0  
-**Key Findings:**
+**📈 Key Findings:**
  - Identified bottlenecks in the warehousing process, leading to delayed deliveries and increased operational costs.  
  📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)  
 
@@ -40,21 +40,9 @@
 - Improved collaboration led to faster decision-making and reduced rework.
 - Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.  
  📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)
+    
 
-### **4️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**
-**Goal:** Improve user engagement and streamline the feature development process using Agile methodologies.  
-**Tools:** Jira, Confluence, Miro, Microsoft Teams 
-**Methodology:**
-✅ Sprint Planning – Defined user stories, backlog grooming     
-✅ Daily Stand-ups – Coordinated with developers & stakeholders    
-✅ Sprint Reviews & Retrospectives – Collected feedback & optimized processes    
-**📈 Key Findings:**   
-- 30% increase in feature release efficiency after implementing Agile workflows.    
-- Improved collaboration led to faster decision-making and reduced rework.     
-- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.     
- 📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)      
-
-### **5️⃣ Project: Modernizing Tritek’s Live Support Analytics Dashboard**   
+### **4️⃣ Project: Modernizing Tritek’s Live Support Analytics Dashboard**   
 
 **Project Overview**
 **Goal:** Enhance Tritek’s live support analytics dashboard by incorporating modern features, improving user experience, and ensuring seamless interactions.    
