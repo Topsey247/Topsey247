@@ -4,8 +4,8 @@
 ## KEY SKILLS
 ✅ Data Analysis (SQL, R, Excel)  
 ✅ BI Tools (Tableau, Power BI)  
-✅ Process Mapping (BPMN, Visio, Lucidchart) 
-✅ Requirements Gathering (JIRA, Confluence)
+✅ Process Mapping (BPMN, Visio, Lucidchart)   
+✅ Requirements Gathering (JIRA, Confluence)    
 ✅ Agile, Scrum, & Stakeholder Management 
 
 ---
