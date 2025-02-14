@@ -18,14 +18,14 @@
 **Key Findings:** 
 - Sellers struggled with order tracking and real-time inventory updates.
 - Lack of customized reporting for sales trends.
-- Inefficient navigation affected user experience.
+- Inefficient navigation affected user experience.  
 📌 [Project Details](./Case-Studies/Retail-Sales-Analysis/Insights.md)
 
 ### **2️⃣ Process Mapping (Visio & BPMN)**
 **Goal:** Map the end-to-end processes of Hubeatz, including interactions between farmers, warehousing, and customers to improve efficiency.  
 **Tools:** Visio, Lucidchart, Bizagi, BPMN 2.0  
 **Key Findings:**
- - Identified bottlenecks in the warehousing process, leading to delayed deliveries and increased operational costs.
+ - Identified bottlenecks in the warehousing process, leading to delayed deliveries and increased operational costs.  
  📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)  
 
 ### **3️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**
@@ -38,7 +38,7 @@
 **Key Findings:**
 - 30% increase in feature release efficiency after implementing Agile workflows.
 - Improved collaboration led to faster decision-making and reduced rework.
-- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.
+- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.  
  📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)
 
 ### **4️⃣ Agile, Scrum & Stakeholder Management – Hubeatz Mobile App Features**
@@ -51,7 +51,7 @@
 **Key Findings:**
 - 30% increase in feature release efficiency after implementing Agile workflows.
 - Improved collaboration led to faster decision-making and reduced rework.
-- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.
+- Prioritization using MoSCoW & Kano Analysis improved feature alignment with business goals.  
  📌 [Project Details](./Case-Studies/Customer-Churn-Prediction/Findings.md)
 
 ### **5️⃣ Project: Modernizing Tritek’s Live Support Analytics Dashboard**
@@ -64,7 +64,7 @@
 
 ## 📊 Project Approach
 
-🔹 Business Analysis & Requirement Gathering 
+🔹 Business Analysis & Requirement Gathering   
 ✔ Conducted stakeholder interviews to gather pain points and feature requests.  
 ✔ Analyzed existing dashboard performance and user behavior data.  
 ✔ Defined business and technical requirements for the new dashboard.  
@@ -74,25 +74,25 @@
 ✔ Compared features with industry leaders.  
 ✔ Identified key improvements and unique selling points for Tritek’s dashboard.  
 
-🔹 Dashboard Redesign & User Experience Optimization
-✔ Proposed a new wireframe & UI design (using Figma & Adobe XD).
-✔ Improved navigation flow & real-time data representation.
-✔ Introduced interactive widgets, KPIs, and filtering options for better analytics.
+🔹 Dashboard Redesign & User Experience Optimization   
+✔ Proposed a new wireframe & UI design (using Figma & Adobe XD).   
+✔ Improved navigation flow & real-time data representation.    
+✔ Introduced interactive widgets, KPIs, and filtering options for better analytics.   
 
-🔹 Data & Performance Enhancements
-✔ Optimized SQL queries to improve data retrieval speed.
-✔ Integrated AI-driven insights & chatbot support metrics.
-✔ Ensured real-time monitoring & predictive analytics for better decision-making.
+🔹 Data & Performance Enhancements   
+✔ Optimized SQL queries to improve data retrieval speed.   
+✔ Integrated AI-driven insights & chatbot support metrics.   
+✔ Ensured real-time monitoring & predictive analytics for better decision-making.   
 
-🔹 Agile Execution & Stakeholder Collaboration
-✔ Managed project in Jira, conducted daily stand-ups & sprint reviews.
-✔ Iterated based on feedback from admins and test users.
+🔹 Agile Execution & Stakeholder Collaboration    
+✔ Managed project in Jira, conducted daily stand-ups & sprint reviews.    
+✔ Iterated based on feedback from admins and test users.     
 
-📈 Key Outcomes & Business Impact
-- 30% improvement in dashboard load time through query optimization.
-- Enhanced reporting with interactive & customizable KPIs.
-- Improved admin efficiency in tracking support team performance.
-- Positive user feedback on the new interface and features.
+📈 Key Outcomes & Business Impact   
+- 30% improvement in dashboard load time through query optimization.    
+- Enhanced reporting with interactive & customizable KPIs.    
+- Improved admin efficiency in tracking support team performance.   
+- Positive user feedback on the new interface and features.   
 
 ---
 
