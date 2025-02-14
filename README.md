@@ -85,7 +85,7 @@
 ---
 
 ## 📩 Get in Touch
-📧 [Temitopearotolu24@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/tope-arotolu-234a32312?trk=contact-info) | 🌐 [Portfolio Website]()
+📧 [Temitopearotolu24@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/tope-arotolu-234a32312?trk=contact-info) 
 
 
 -->
